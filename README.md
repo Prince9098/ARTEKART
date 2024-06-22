@@ -39,7 +39,7 @@ Artekart: A marketplace built for handicraft artists, offering:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Vr978/Askpixie.git
+git clone https://github.com/Prince9098/ARTEKART.git
 ```
 2. Install packages
 ```bash
